@@ -1,4 +1,5 @@
-# Fitting Poisson  distribution
+# EXE 02 : Fitting Poisson  distribution
+# DATE : 05.10.2024
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -29,10 +30,18 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+DEVELOPED BY : SRUTHI A
+
+REG NO : 24900467
+
+![Screenshot 2024-12-21 142614](https://github.com/user-attachments/assets/c7ac248e-4cd2-47e3-89d2-ac839685b188)
+
 
  
 
 # Output : 
+![Screenshot 2024-12-21 142651](https://github.com/user-attachments/assets/087b2b4d-b761-434d-8594-32906658d04c)
+
 
 
 
